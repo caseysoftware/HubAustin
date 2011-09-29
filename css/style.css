@@ -1,0 +1,23 @@
+html, body, a, input { background-color: #1b4c6c; color: #fff; font-family: Tahoma, sans-serif; font-size: 14px; line-height: 19px; }
+input { border: 1px solid #ccc; }
+
+big, big a { background-color: #2e5f7f; padding: 5px; }
+
+big a { font-size: inherit; }
+
+#header { height: 86px; margin-bottom: 40px; }
+	#header a { float: left; font-size: 1px; color: #1b4c6c; text-indent:-5000px; display: block; width: 353px; height: 86px; background: url(../images/site-logo.png) 0px 0px no-repeat; margin-right: 50px; }
+	#header h1 { float: left; line-height: 86px; margin: 0px; padding: 0px; }
+
+#page { margin: 20px auto; width: 800px; border: 3px dashed #153d56; padding: 20px; }
+
+#content { margin-bottom: 50px; }
+#leftcontent { width: 64%; float: left; margin-right: 3%; }
+#rightbar { width: 250px; float: left; background-color: #2e5f7f; padding: 5px; }
+
+#footer { text-align: right; border-top: 1px dashed #153d56; }
+
+.error { color: #f08da7; }
+.success { color: #93f00e; }
+
+.clear { clear:both; }
