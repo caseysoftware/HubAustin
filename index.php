@@ -36,8 +36,11 @@ require_once("base.php");
 		<div id="leftcontent">
 			<h3>HubAustin: South Austin Coworking...finally!</h3>
 			<p>
-			HubAustin Coworking is having an open-house party starting at <b>6pm on Thursday, Sept 29.</b> Anyone who's interested, please <a href="http://hubaustin.eventbrite.com/">RSVP</a>
-			and then stop by the office to enjoy beer and refreshments, check us out, and get great "sign-n-drive" discounts for signing up on the spot!
+			HubAustin Coworking had its open-house party on Thursday, Sept 29.
+            We had a great turnout and owe a big "thanks" to many in the community.
+            </p>
+            <p>
+			Please feel free to stop by the office during regular business hours (weekdays, 9am-6pm CT) to check us out.
 			</p>
             <p>Do you wonder how we got started? <a href="our-story.php">Read the HubAustin story here</a>.</p>
 			<p>
@@ -47,8 +50,6 @@ require_once("base.php");
 		</div>
 		
 		<div id="rightbar">
-            <big><a href="http://hubaustin.eventbrite.com/">RSVP</a> for the launch party!</big>
-            <br />
 			<p>
 			Want to help us get started? How about a donation of $50, $100, or $500?
 			</p>

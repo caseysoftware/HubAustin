@@ -61,8 +61,6 @@ require_once("base.php");
 		</div>
 
 		<div id="rightbar">
-            <big><a href="http://hubaustin.eventbrite.com/">RSVP</a> for the launch party!</big>
-            <br />
 			<p>
 			Want to help us get started? How about a donation of $50, $100, or $500?
 			</p>
